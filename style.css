@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: white;
+}
+
+header nav{
+    background-color: black;
+    color: white;
+    display: flex;
+    padding: 60px;
+    gap: px;
+    justify-content:space-around;
+    
+}
+
+h1{
+    font-size: 5em;
+    text-align: center;
+    background-image: url(/corrida.gif);
+    background-repeat: no-repeat;
+    background-position: center;
+    color: transparent;
+    background-clip: text;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #928f8f;
+}
+
